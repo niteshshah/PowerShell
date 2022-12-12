@@ -1,0 +1,4 @@
+open powershell
+run Set-ExecutionPolicy RemoteSigned
+Execute scripts 
+run Set-ExecutionPolicy Restricted
